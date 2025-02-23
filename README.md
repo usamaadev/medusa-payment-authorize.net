@@ -2,6 +2,14 @@
 
 This document provides an overview of the integration of Authorize.net as a payment provider with MedusaJs version 2.0. Below are the function definitions required for the integration. For the complete code, please contact me.
 
+## ✅ Project Checklist
+
+- [x] Initialize Authorize.net Client
+- [x] Create Payment Intent
+- [x] Capture Payment
+- [ ] Refund Payment
+- [ ] Handle Webhooks
+
 ## Function Definitions
 
 ### Initialize Authorize.net Client
